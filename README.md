@@ -3,7 +3,6 @@
 This is a To Do Manager with the basic CRUD features
 
 # Setup
-git pull origin master </br>
 bundle install </br>
 rails db:drop </br>
 rails db:create </br>
