@@ -4,9 +4,6 @@ This is a To Do Manager with the basic CRUD features
 
 # Setup
 bundle install </br>
-rails db:drop </br>
-rails db:create </br>
-rails db:migrate </br>
 rails s </br>
 
 # Demo
